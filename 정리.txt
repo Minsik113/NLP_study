@@ -1,0 +1,2 @@
+● 저자 깃허브 링크
+https://github.com/nlp-kr/tensorflow-ml-nlp-tf2
